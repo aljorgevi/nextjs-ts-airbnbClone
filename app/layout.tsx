@@ -1,7 +1,7 @@
 import React from 'react'
 import { Nunito } from 'next/font/google'
 import './globals.css'
-import Navbar from './components/Navbar'
+import Navbar from './components/Navbar/Navbar'
 
 const font = Nunito({
 	subsets: ['latin']
