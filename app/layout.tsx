@@ -1,6 +1,6 @@
+import React from 'react'
 import { Nunito } from 'next/font/google'
 import './globals.css'
-import { Inter } from 'next/font/google'
 import Navbar from './components/Navbar'
 
 const font = Nunito({
